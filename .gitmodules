@@ -1,0 +1,3 @@
+[submodule "datacube-dataset-config"]
+	path = datacube-dataset-config
+	url = git@github.com:opendatacube/datacube-dataset-config.git
